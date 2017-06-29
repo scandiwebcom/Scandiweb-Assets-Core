@@ -2,7 +2,7 @@
     "name": "scandiweb/module-core",
     "description": "Scandiweb Core module for Magento 2 extensions.",
     "type": "magento2-module",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "license": [
         "OSL-3.0",
         "AFL-3.0"

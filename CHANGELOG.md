@@ -5,4 +5,7 @@ Scandiweb_Core changelog
 - initial module creation
 
 0.1.1:
-- Added SW logoaaa6a0
+- Added SW logo
+
+0.1.2:
+- Added default system configuration tab (id = scandiweb)
