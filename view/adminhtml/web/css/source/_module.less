@@ -3,11 +3,24 @@
         > a {
             &:before {
                 content: '';
-                background-image: url("../Scandiweb_Core/images/sw-logo.svg");
-                background-repeat: no-repeat;
+                background: url("../Scandiweb_Core/images/sw-logo-menu.svg") no-repeat center;
                 background-size: 70px;
-                background-position: center;
             }
+        }
+    }
+}
+
+.config-nav-block.scandiweb {
+    strong {
+        &:before {
+            background: url("../Scandiweb_Core/images/sw-logo-tab.svg") no-repeat center;
+            background-size: 50px;
+            width: 26px;
+            height: 16px;
+            content: '';
+            display: inline-block;
+            margin-right: 5px;
+            vertical-align: bottom;
         }
     }
 }
